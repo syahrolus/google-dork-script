@@ -4,7 +4,7 @@ Inspired by [https://dorks.faisalahmed.me/](https://dorks.faisalahmed.me/) made 
 
 You can add your custom query in `query_list` at the source code
 
-The log activity will stored in `googling_log.txt`
+The log activity will be stored in `googling_log.txt`
 
 ## Installation
 
